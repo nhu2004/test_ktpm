@@ -1,0 +1,8 @@
+TC1 - a=0, b=0, c=0 => Infinite solutions
+TC2 - a=0, b=0, c=5 => No solution
+TC3 - a=0, b=2, c=-8 => 2 -2 
+TC4 - a=0, b=3, c=9 => No solution
+TC5 - a=1, b=0, c=-1 => 1 -1 
+TC6 - a=1, b=-2, c=1 => 1 -1 
+TC7 - a=1, b=5, c=6 => No solution
+TC8 - a=1, b=-5, c=4 => 2 -2 1 -1 
