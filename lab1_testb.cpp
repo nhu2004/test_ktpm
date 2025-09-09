@@ -11,13 +11,6 @@ int f1(int x) {
 }
 
 int main() {
-    //int x = 11;
-    //int expected = 22;
-    //int actual = f2(x);
-    //cout << "Test f1 buggy: x=11\n";
-   // cout << "Actual: " << actual << "\nExpected: " << expected << "\n";
-    
-
     cout << "Test f1" << endl;
     cout << "f1(11) = " << f1(11) << " (Expected: 22)" << endl;
     cout << "f1(8) = " << f1(8) << " (Expected: -8)" << endl;
