@@ -9,9 +9,9 @@ int f3(int x) {
 
 int main() {
     cout << "Test f3" << endl;
-    cout << "f3(0) = " << f3(11) << " (Expected: 22)" << endl;
-    cout << "f3(1) = " << f3(10) << " (Expected: 20)" << endl;
-    cout << "f3(2) = " << f3(11) << " (Expected: 22)" << endl;
+    cout << "f3(0) = " << f3(0) << " (Expected: 22)" << endl;
+    cout << "f3(1) = " << f3(1) << " (Expected: 20)" << endl;
+    cout << "f3(2) = " << f3(2) << " (Expected: 22)" << endl;
    
     return 0;
 }

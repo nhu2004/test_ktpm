@@ -22,4 +22,3 @@ int main()
     cout << findMax(a, b, c) << endl;
     return 0;
 }
-//test 23 0 -4
